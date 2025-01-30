@@ -82,16 +82,43 @@ nav ul li a:hover {
 /* com-son */
 .com-son {
     width: 100vw;
+    height: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 35vh;
-    
+    margin-top: 11.5vh;
+    justify-content: flex-start;
 }
-.com-son h1 {
-    font-size: 5vw;
-    font-weight: 700;
-    margin-bottom: 13vh;
+
+/* midpart */
+.midpart {
+    background-color: #CBFFA9;
+    width: 91.5%;
+    height: 100%;
+    margin: auto;
+}
+.musicPart {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #FFFEC4;
+    width: 100%;
+    height: 70vh;
+}
+.mscArtst-Heading {
+    flex-grow: 1;
+    background-color: #FFD6A5;
+    width: 100%;
+}
+.mscArtst-Covers {
+    flex-grow: 4;
+    background-color: #FF9B9B;
+    width: 100%;
+}
+.mscInfiniteScroll {
+    flex-grow: 2;
+    background-color: #FFB38E;
+    width: 100%;
 }
 
 /* Footer Section */
