@@ -109,7 +109,15 @@ nav ul li a:hover {
     flex-grow: 1;
     background-color: #FFD6A5;
     width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
 }
+.mscArtst-Heading h1 {
+    font-weight: 600;
+    font-size: 1.5vw;
+}
+
 .mscArtst-Covers {
     flex-grow: 4;
     background-color: #FF9B9B;
