@@ -28,6 +28,15 @@ const projects = [
   },
   {
     id: 4,
+    name: "THREAT-INTELLIGENCE↗",
+    subtitle: "Threat Intelligence Dashboard Website",
+    description:
+      "A website with real-time data analysis, attack trend visualization and API integration in MERN stack",
+    image: "images/p5.png",
+    link: "https://github.com/Kanishak-xd/threat-intelligence/",
+  },
+  {
+    id: 5,
     name: "AQUASOL↗",
     subtitle: "Smart Water Management App",
     description:
