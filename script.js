@@ -10,12 +10,12 @@ const projects = [
   },
   {
     id: 2,
-    name: "RE:JAPANESE↗",
-    subtitle: "Japanese Language Learning Website",
+    name: "REJAP↗",
+    subtitle: "Language Learning Website in Mern Stack",
     description:
-      "A website for learning Japanese language with free lessons and quizzes",
+      "A website for learning Japanese language with free lessons",
     image: "images/p2.png",
-    link: "https://kanishak-xd.github.io/re-japanese/",
+    link: "https://github.com/Kanishak-xd/rejap",
   },
   {
     id: 3,
